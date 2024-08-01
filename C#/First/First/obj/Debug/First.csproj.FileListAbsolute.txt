@@ -1,0 +1,11 @@
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\bin\Debug\First.exe.config
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\bin\Debug\First.exe
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\bin\Debug\First.pdb
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\obj\Debug\First.csproj.AssemblyReference.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\obj\Debug\First.csproj.SuggestedBindingRedirects.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\obj\Debug\First.Form1.resources
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\obj\Debug\First.Properties.Resources.resources
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\obj\Debug\First.csproj.GenerateResource.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\obj\Debug\First.exe
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\First\First\obj\Debug\First.pdb

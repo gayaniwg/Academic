@@ -1,0 +1,11 @@
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainMenuStrip.resources
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

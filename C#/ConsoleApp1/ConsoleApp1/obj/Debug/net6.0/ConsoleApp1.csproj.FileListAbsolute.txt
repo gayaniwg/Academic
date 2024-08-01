@@ -1,0 +1,15 @@
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

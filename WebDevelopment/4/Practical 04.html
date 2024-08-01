@@ -1,0 +1,115 @@
+<!Doctype html>
+<html>
+<head>
+
+	<title>Registration Form</title>
+	<link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre:wght@400;500&family=Work+Sans:wght@600&display=swap" rel="stylesheet">
+	
+	<style>
+	
+	body{background-image:url(1.png);
+		 background-repeat:no-repeat;
+		 background-position:right top;
+		 background-attachment:fixed;
+		 font-family:work sans;}
+		 
+	h1{color:#1B2430;
+	   font-size:60px;
+	   family-weight:bold;*
+	   }
+	   
+	 th{background-color: #B8FFF9;
+		cellpadding: 10px;
+		text-align: left;}
+		
+	input[type=text], 
+	select {width: 100%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			display: inline-block;
+			border: 1px solid #ccc;
+			border-radius: 4px;
+			box-sizing: border-box;}
+		
+	input[type=Register] {
+	  width: 8%;
+	  background-color: #2C3333;
+	  color: white;
+	  text-align: center;
+	  padding: 14px 20px;
+	  margin: 8px 8px;
+	  border: none;
+	  border-radius: 4px;
+	  cursor: pointer;}
+	  
+	  input[type=Cancel] {
+	  width: 8%;
+	  background-color: #2C3333;
+	  text-align: center;
+	  color: white;
+	  padding: 14px 20px;
+	  border: none;
+	  border-radius: 4px;
+	  cursor: pointer;}
+	</style>
+	 
+	
+<body>
+<center>
+	<h1>Registration Form</h1>
+	
+	<form>
+	<table>
+	<tr>
+		<th> <label for="name">Name:</label></th>
+		<td><input type="text" id="name" name="name"></td>
+	</tr>
+	<tr>
+		<th><label for="ry">Registration Year:</label></th>
+		<td><input type="text" id="ry" name="ry"></td>
+	</tr>
+	<tr>
+		<th><label for="sem">Registration Semester:</label></th>
+		<td><select name="sem" id="sem">
+			<option value="sem 1">Semester 1</option>
+			<option value="sem 2">Semester 2</option>
+		</select></td>
+	</tr>
+	<tr>
+		<th><label for="Student photo">Student photo:</label></th>
+		<td><input type="file" id="Student photo"></td>
+	</tr>
+	<tr>
+		<th><label for="Email">E-mail:</label></th>
+		<td><input type="text" id="Email"></td>
+	</tr>
+	<tr>	
+		<th><label for="PhoneNum">Phone Number:</label></th>
+		<td><input type="text" id="PhoneNum"></td>
+	</tr>
+	<tr>	
+		<th><label for="DPro">Degree Programme:</label></th>
+		<td><input type="text" id="DPro"></td>
+	</tr>
+	<tr>	
+		<th><label for="Dep">Department:</label></th>
+		<td><select name="Dep" id="Dep">
+			<option value="Chemistry">Chemistry</option>
+			<option value="Industrial Management">Industrial Management</option>
+			<option value="Mathematics ">Mathematics </option>
+			<option value="Microbiology">Microbiology</option>
+			<option value="Physics">Physics</option>
+			<option value="Environmental Management">Environmental Management</option>
+		</select></td>
+	</tr>
+	</table>
+	<input type="Register" value="Register">&nbsp;&nbsp;
+	<input type="Cancel" value="Cancel">
+	
+</center>
+
+	
+	
+	
+</body>
+</html>

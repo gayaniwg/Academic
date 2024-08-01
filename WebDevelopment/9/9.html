@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <Title>jQuery</Title>
+    </head>
+    <link rel="Stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() //Question 01
+        {
+            $("#btn1").click(function(){
+            
+                alert("Welcome")
+            });
+        });
+
+        $(document).ready(function() //Question 02
+        {
+            $(".txt1").click(function(){
+            
+                $(this).css("background-color", "green");
+            });
+        });
+
+        $(document).ready(function()//Question 03
+        {
+            $("#btn3").click(function(){
+                 $("p").prop('id', 'sty2');
+            });
+        });
+
+
+
+        $(document).ready(function() //Question 04 
+        {
+    
+          $("#btn2").click(function(){
+            var my_str=$('#txt2').val();
+             $('#btn2').html(my_str);
+        })
+    })
+
+
+
+    </script>
+    <body>
+        <div class="ex1">
+        <H1>Q 01</H1><br><br>
+        <form>
+            <input type="button" id="btn1" value="Click me">
+        </form>
+    </div>
+    <br><br>
+
+
+    
+    <div class="ex2">
+        <H1>Q 02</H1>
+        <form>
+            <br>
+            <input type="text" class="txt1" placeholder="Enter your fname:"><br><br>
+            <br>
+            <input type="text" class="txt1" placeholder="Enter your sname:"><br><br>
+            <br>
+            <input type="text" class="txt1" placeholder="Enter your address:">
+        </form>
+    </div>
+    <br><br>
+
+    <div class="ex2">
+        <H1>Q 03</H1>
+        <form>
+            <br>
+            <p id="sty1">This is some text.</p>
+            <button type="button" id="btn3">Change</button>
+        </form>
+    </div>
+    <br><br>
+    
+
+    <div class="ex1">
+        <H1>Q 04</H1>
+        <form>
+            <br>
+            <input type="text" id="txt2" placeholder="Typing.............:"><br><br>
+            <br><br>
+            <button type="button" id="btn2" >Click me</button>
+        </form>
+    </div>
+    
+    <br><br>
+    
+    <br><br>
+
+
+    </body>
+</html>

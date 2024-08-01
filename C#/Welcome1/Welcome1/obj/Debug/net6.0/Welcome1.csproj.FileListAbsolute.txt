@@ -1,0 +1,15 @@
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.exe
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.deps.json
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.runtimeconfig.json
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.dll
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\bin\Debug\net6.0\Welcome1.pdb
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.csproj.AssemblyReference.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.GeneratedMSBuildEditorConfig.editorconfig
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.AssemblyInfoInputs.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.AssemblyInfo.cs
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.csproj.CoreCompileInputs.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.dll
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\refint\Welcome1.dll
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.pdb
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\Welcome1.genruntimeconfig.cache
+G:\02\2\INTE 22313- Interactive Application Dev\Preactise\1\Welcome1\Welcome1\obj\Debug\net6.0\ref\Welcome1.dll
