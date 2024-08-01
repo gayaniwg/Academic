@@ -1,1 +1,1 @@
-"# TodoList" 
+"# Welcome to my GitHub repository! This repository contains various technical activities and projects I completed during my undergraduate studies in Management and Information Technology. These projects showcase my practical skills and hands-on experience in various technical domains. Feel free to explore and see the practical applications of my academic knowledge." 
